@@ -1,1 +1,1 @@
-![](images/filename map.png)
+![](images/map.png)
