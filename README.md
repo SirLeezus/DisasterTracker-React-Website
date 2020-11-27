@@ -1,1 +1,1 @@
-❮img src="map.png" width="100" ❯
+![](images/filename map.png)
